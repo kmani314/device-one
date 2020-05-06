@@ -2095,39 +2095,35 @@ Wire Wire Line
 	1400 5050 1350 5050
 Wire Wire Line
 	1350 5050 1350 4850
-Text Label 5500 6750 0    50   ~ 0
-col1
-Text Label 5500 6850 0    50   ~ 0
-col2
 Text Label 5500 6950 0    50   ~ 0
-col3
+col2
 Text Label 5500 7050 0    50   ~ 0
-col4
+col3
 Text Label 5500 7150 0    50   ~ 0
+col4
+Text Label 5800 7150 0    50   ~ 0
 col5
 Text Label 5500 5250 0    50   ~ 0
 col6
-Text Label 5500 5150 0    50   ~ 0
+Text Label 5500 4250 0    50   ~ 0
 row0
-Text Label 5500 6650 0    50   ~ 0
+Text Label 5500 6750 0    50   ~ 0
 col0
-Text Label 5500 5450 0    50   ~ 0
+Text Label 5500 4950 0    50   ~ 0
 col13
-Text Label 5500 5550 0    50   ~ 0
+Text Label 5500 5450 0    50   ~ 0
 col12
-Text Label 5500 5650 0    50   ~ 0
+Text Label 5500 5550 0    50   ~ 0
 col11
-Text Label 5500 4750 0    50   ~ 0
-row2
-Text Label 5500 4650 0    50   ~ 0
-row3
-Text Label 5500 5850 0    50   ~ 0
-col7
 Text Label 5500 4850 0    50   ~ 0
+row2
+Text Label 5500 4750 0    50   ~ 0
+row3
+Text Label 5500 5150 0    50   ~ 0
 row1
-Text Label 5500 5750 0    50   ~ 0
+Text Label 5500 5650 0    50   ~ 0
 col10
-Text Label 5500 6050 0    50   ~ 0
+Text Label 5500 5950 0    50   ~ 0
 col8
 Connection ~ 6800 3400
 Wire Wire Line
@@ -2174,8 +2170,12 @@ Wire Wire Line
 Wire Wire Line
 	9000 3800 9000 3400
 Connection ~ 9000 3400
-Text Label 5500 6150 0    50   ~ 0
+Text Label 5500 4650 0    50   ~ 0
 row4
-Text Label 5500 5950 0    50   ~ 0
+Text Label 5500 5750 0    50   ~ 0
 col9
+Text Label 5500 6650 0    50   ~ 0
+col7
+Text Label 5500 6850 0    50   ~ 0
+col1
 $EndSCHEMATC
