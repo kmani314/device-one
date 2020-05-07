@@ -2275,10 +2275,10 @@ F 3 "" H 6000 5150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Connector:Conn_01x01_Male J?
+L Connector:Conn_01x01_Male J8
 U 1 1 5EB751B8
 P 6350 5350
-F 0 "J?" H 6322 5282 50  0000 R CNN
+F 0 "J8" H 6322 5282 50  0000 R CNN
 F 1 "Conn_01x01_Male" H 6322 5373 50  0000 R CNN
 F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6350 5350 50  0001 C CNN
 F 3 "~" H 6350 5350 50  0001 C CNN
@@ -2286,10 +2286,10 @@ F 3 "~" H 6350 5350 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Connector:Conn_01x01_Male J?
+L Connector:Conn_01x01_Male J9
 U 1 1 5EB751BE
 P 6350 5500
-F 0 "J?" H 6322 5432 50  0000 R CNN
+F 0 "J9" H 6322 5432 50  0000 R CNN
 F 1 "Conn_01x01_Male" H 6322 5523 50  0000 R CNN
 F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6350 5500 50  0001 C CNN
 F 3 "~" H 6350 5500 50  0001 C CNN
@@ -2297,10 +2297,10 @@ F 3 "~" H 6350 5500 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Connector:Conn_01x01_Male J?
+L Connector:Conn_01x01_Male J10
 U 1 1 5EB751C4
 P 6350 5650
-F 0 "J?" H 6322 5582 50  0000 R CNN
+F 0 "J10" H 6322 5582 50  0000 R CNN
 F 1 "Conn_01x01_Male" H 6322 5673 50  0000 R CNN
 F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6350 5650 50  0001 C CNN
 F 3 "~" H 6350 5650 50  0001 C CNN
@@ -2308,10 +2308,10 @@ F 3 "~" H 6350 5650 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Connector:Conn_01x01_Male J?
+L Connector:Conn_01x01_Male J11
 U 1 1 5EB751CA
 P 6350 5800
-F 0 "J?" H 6322 5732 50  0000 R CNN
+F 0 "J11" H 6322 5732 50  0000 R CNN
 F 1 "Conn_01x01_Male" H 6322 5823 50  0000 R CNN
 F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6350 5800 50  0001 C CNN
 F 3 "~" H 6350 5800 50  0001 C CNN
@@ -2327,10 +2327,10 @@ MISO
 Text Label 6150 5800 2    50   ~ 0
 RESET
 $Comp
-L Connector:Conn_01x01_Male J?
+L Connector:Conn_01x01_Male J12
 U 1 1 5EB751D4
 P 6350 5950
-F 0 "J?" H 6322 5882 50  0000 R CNN
+F 0 "J12" H 6322 5882 50  0000 R CNN
 F 1 "Conn_01x01_Male" H 6322 5973 50  0000 R CNN
 F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6350 5950 50  0001 C CNN
 F 3 "~" H 6350 5950 50  0001 C CNN
@@ -2338,10 +2338,10 @@ F 3 "~" H 6350 5950 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Connector:Conn_01x01_Male J?
+L Connector:Conn_01x01_Male J13
 U 1 1 5EB751DA
 P 6350 6100
-F 0 "J?" H 6322 6032 50  0000 R CNN
+F 0 "J13" H 6322 6032 50  0000 R CNN
 F 1 "Conn_01x01_Male" H 6322 6123 50  0000 R CNN
 F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6350 6100 50  0001 C CNN
 F 3 "~" H 6350 6100 50  0001 C CNN
