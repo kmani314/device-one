@@ -2178,4 +2178,196 @@ Text Label 5500 6650 0    50   ~ 0
 col7
 Text Label 5500 6850 0    50   ~ 0
 col1
+$Comp
+L Connector:Conn_01x01_Male J2
+U 1 1 5EB6BFE2
+P 6200 4400
+F 0 "J2" H 6172 4332 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 6172 4423 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6200 4400 50  0001 C CNN
+F 3 "~" H 6200 4400 50  0001 C CNN
+	1    6200 4400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J3
+U 1 1 5EB6DDE5
+P 6200 4550
+F 0 "J3" H 6172 4482 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 6172 4573 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6200 4550 50  0001 C CNN
+F 3 "~" H 6200 4550 50  0001 C CNN
+	1    6200 4550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J4
+U 1 1 5EB748FF
+P 6200 4700
+F 0 "J4" H 6172 4632 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 6172 4723 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6200 4700 50  0001 C CNN
+F 3 "~" H 6200 4700 50  0001 C CNN
+	1    6200 4700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J5
+U 1 1 5EB7B587
+P 6200 4850
+F 0 "J5" H 6172 4782 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 6172 4873 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6200 4850 50  0001 C CNN
+F 3 "~" H 6200 4850 50  0001 C CNN
+	1    6200 4850
+	-1   0    0    1   
+$EndComp
+Text Label 6000 4400 2    50   ~ 0
+SCLK
+Text Label 6000 4550 2    50   ~ 0
+MOSI
+Text Label 6000 4700 2    50   ~ 0
+MISO
+Text Label 6000 4850 2    50   ~ 0
+RESET
+$Comp
+L Connector:Conn_01x01_Male J6
+U 1 1 5EBD681E
+P 6200 5000
+F 0 "J6" H 6172 4932 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 6172 5023 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6200 5000 50  0001 C CNN
+F 3 "~" H 6200 5000 50  0001 C CNN
+	1    6200 5000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J7
+U 1 1 5EBDD458
+P 6200 5150
+F 0 "J7" H 6172 5082 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 6172 5173 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6200 5150 50  0001 C CNN
+F 3 "~" H 6200 5150 50  0001 C CNN
+	1    6200 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 5EBE65DE
+P 6000 5000
+F 0 "#PWR?" H 6000 4850 50  0001 C CNN
+F 1 "VCC" V 6018 5127 50  0000 L CNN
+F 2 "" H 6000 5000 50  0001 C CNN
+F 3 "" H 6000 5000 50  0001 C CNN
+	1    6000 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5EBE7004
+P 6000 5150
+F 0 "#PWR?" H 6000 4900 50  0001 C CNN
+F 1 "GND" V 6005 5022 50  0000 R CNN
+F 2 "" H 6000 5150 50  0001 C CNN
+F 3 "" H 6000 5150 50  0001 C CNN
+	1    6000 5150
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J?
+U 1 1 5EB751B8
+P 6350 5350
+F 0 "J?" H 6322 5282 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 6322 5373 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6350 5350 50  0001 C CNN
+F 3 "~" H 6350 5350 50  0001 C CNN
+	1    6350 5350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J?
+U 1 1 5EB751BE
+P 6350 5500
+F 0 "J?" H 6322 5432 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 6322 5523 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6350 5500 50  0001 C CNN
+F 3 "~" H 6350 5500 50  0001 C CNN
+	1    6350 5500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J?
+U 1 1 5EB751C4
+P 6350 5650
+F 0 "J?" H 6322 5582 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 6322 5673 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6350 5650 50  0001 C CNN
+F 3 "~" H 6350 5650 50  0001 C CNN
+	1    6350 5650
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J?
+U 1 1 5EB751CA
+P 6350 5800
+F 0 "J?" H 6322 5732 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 6322 5823 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6350 5800 50  0001 C CNN
+F 3 "~" H 6350 5800 50  0001 C CNN
+	1    6350 5800
+	-1   0    0    1   
+$EndComp
+Text Label 6150 5350 2    50   ~ 0
+SCLK
+Text Label 6150 5500 2    50   ~ 0
+MOSI
+Text Label 6150 5650 2    50   ~ 0
+MISO
+Text Label 6150 5800 2    50   ~ 0
+RESET
+$Comp
+L Connector:Conn_01x01_Male J?
+U 1 1 5EB751D4
+P 6350 5950
+F 0 "J?" H 6322 5882 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 6322 5973 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6350 5950 50  0001 C CNN
+F 3 "~" H 6350 5950 50  0001 C CNN
+	1    6350 5950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J?
+U 1 1 5EB751DA
+P 6350 6100
+F 0 "J?" H 6322 6032 50  0000 R CNN
+F 1 "Conn_01x01_Male" H 6322 6123 50  0000 R CNN
+F 2 "TestPoint:TestPoint_Pad_3.0x3.0mm" H 6350 6100 50  0001 C CNN
+F 3 "~" H 6350 6100 50  0001 C CNN
+	1    6350 6100
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 5EB751E0
+P 6150 5950
+F 0 "#PWR?" H 6150 5800 50  0001 C CNN
+F 1 "VCC" V 6168 6077 50  0000 L CNN
+F 2 "" H 6150 5950 50  0001 C CNN
+F 3 "" H 6150 5950 50  0001 C CNN
+	1    6150 5950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5EB751E6
+P 6150 6100
+F 0 "#PWR?" H 6150 5850 50  0001 C CNN
+F 1 "GND" V 6155 5972 50  0000 R CNN
+F 2 "" H 6150 6100 50  0001 C CNN
+F 3 "" H 6150 6100 50  0001 C CNN
+	1    6150 6100
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC
