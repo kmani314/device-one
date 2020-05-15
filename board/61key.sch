@@ -1693,10 +1693,6 @@ Wire Wire Line
 	10400 2900 11400 2900
 Wire Wire Line
 	7550 4700 7550 4500
-Wire Wire Line
-	10200 4700 10200 4550
-Wire Wire Line
-	10750 4700 10750 4600
 $Comp
 L Device:D D35
 U 1 1 5EEAA1A8
@@ -2024,4 +2020,32 @@ Wire Wire Line
 Wire Wire Line
 	11400 2650 11500 2650
 Connection ~ 11500 2650
+Wire Wire Line
+	5200 4700 5200 4000
+Connection ~ 5200 4000
+Wire Wire Line
+	5750 4700 5750 4000
+Connection ~ 5750 4000
+Wire Wire Line
+	4650 4700 4650 4000
+Connection ~ 4650 4000
+Wire Wire Line
+	7550 4500 7950 4500
+Wire Wire Line
+	7950 4500 7950 4000
+Connection ~ 7950 4000
+Wire Wire Line
+	10750 4150 10150 4150
+Wire Wire Line
+	10150 4150 10150 4000
+Wire Wire Line
+	10750 4150 10750 4700
+Connection ~ 10150 4000
+Wire Wire Line
+	10200 4200 9600 4200
+Wire Wire Line
+	9600 4200 9600 4000
+Wire Wire Line
+	10200 4200 10200 4700
+Connection ~ 9600 4000
 $EndSCHEMATC
