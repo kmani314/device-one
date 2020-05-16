@@ -41,6 +41,7 @@ MinHoleToHole=0.25
 TrackWidth1=0.4
 TrackWidth2=0.25
 TrackWidth3=0.4
+TrackWidth4=0.6
 ViaDiameter1=0.8
 ViaDrill1=0.4
 dPairWidth1=0.2
