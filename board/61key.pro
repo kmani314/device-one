@@ -69,7 +69,7 @@ OthersTextItalic=0
 OthersTextUpright=1
 SolderMaskClearance=0
 SolderMaskMinWidth=0
-SolderPasteClearance=0
+SolderPasteClearance=-0.003
 SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
